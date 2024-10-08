@@ -1,8 +1,12 @@
-# React + Vite
+<h1 align="center" style="font-weight: bold;">To do List 📜 </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center" justify="center">
+    <b>Primeiro projeto feito utilizando React</b> <img align="center" alt="React"  width="25" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">   
+</p>
+<br>
 
-Currently, two official plugins are available:
+## Imagem inicial da página:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+    <img src="./src/img/pagina.png" alt="home" width="500px">
+</p>

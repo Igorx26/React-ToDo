@@ -5,8 +5,9 @@
 </p>
 <br>
 
-## Imagem inicial da página:
+## Imagems da página:
 
 <p align="center">
-    <img src="./src/img/pagina.png" alt="home" width="500px">
+    <img src="./src/img/pagina.png" alt="home" width="400px">
+    <img src="./src/img/categorias.png" alt="home" width="400px">
 </p>
